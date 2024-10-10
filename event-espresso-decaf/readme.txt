@@ -6,7 +6,7 @@
 **Requires at least:** WordPress 4.5  
 **Requires PHP:** 7.4  
 **Tested up to:** WordPress 6.6.1  
-Stable tag: 5.0.27.decaf
+Stable tag: 5.0.28.decaf
 **License:** GPL2  
 
 The best event registration and ticket sales plugin with: registration forms, PayPal payments, automated confirmation emails and more!
